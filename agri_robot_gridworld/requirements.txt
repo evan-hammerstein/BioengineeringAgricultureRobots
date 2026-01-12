@@ -1,0 +1,8 @@
+numpy
+pygame
+torch
+gymnasium
+matplotlib
+typing-extensions
+imageio
+Pillow

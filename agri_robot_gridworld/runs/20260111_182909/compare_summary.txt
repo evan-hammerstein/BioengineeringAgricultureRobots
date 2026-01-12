@@ -1,0 +1,6 @@
+Comparison summary (last 50-episode mean):
+
+-   baseline | meanMoney=   61.13 | bestMoney= 1808.63 | meanR=  155.38 | invalid= 6.14% | missedChg= 11.06
+-  singledqn | meanMoney=   25.73 | bestMoney=  939.58 | meanR=   84.29 | invalid= 6.56% | missedChg= 11.64
+-     nstep3 | meanMoney=  697.58 | bestMoney= 1604.64 | meanR=  754.36 | invalid= 3.72% | missedChg=  6.50
+-     nstep5 | meanMoney=  597.60 | bestMoney= 1362.46 | meanR=  601.83 | invalid= 3.20% | missedChg=  5.56
