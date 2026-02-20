@@ -1,6 +1,8 @@
 
 # Agri Robot Gridworld
 
+https://medium.com/@evanhammerstein/bioengineering-a-brain-in-the-labor-force-of-the-future-agricultural-robots-via-innovating-74b00b68cc3c
+
 Grid-based farming/fieldwork environment (Gymnasium) with a Pygame viewer, replay recording, and DQN-family baselines:
 
 - **Environment**: `AgriRobotEnv` in `agri_env.py` (action masking, day-based battery, plants/weeds dynamics, optional feature toggles).
