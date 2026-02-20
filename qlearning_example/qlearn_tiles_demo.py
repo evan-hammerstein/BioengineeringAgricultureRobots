@@ -15,7 +15,7 @@ Controls (during the visualization window):
     SPACE: step one transition
     ENTER: auto-run
     R: reset episode (keeps learned Q)
-    ESC / close window: quit
+    ESC/close window: quit
 """
 
 import argparse
